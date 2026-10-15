@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Textualize/toolong/commit/5aa22ee878026f46d4d265905c4e1df4d37842ae",
       "git:hexsha": "5aa22ee878026f46d4d265905c4e1df4d37842ae",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:28:11.840252+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Textualize/toolong/commit/b16f7e9cdae6953b886d5aac62c5adbf0c1f2e18",
